@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ad008e8-9616-4985-bd87-6372d1fb66f0" name="Changes" comment="first commit">
+    <list default="true" id="4ad008e8-9616-4985-bd87-6372d1fb66f0" name="Changes" comment="atividade 10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,15 +43,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/heito/OneDrive/Área de Trabalho/Pastas e Arquivos/Programação/Java/Atividade-Recursividade-Merge-Sort/Atividade1/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/heito/OneDrive/Área de Trabalho/Pastas e Arquivos/Programação/Java/Atividade-Recursividade-Merge-Sort",
+    "onboarding.tips.debug.path": "C:/Users/heito/OneDrive/Área de Trabalho/Pastas e Arquivos/Programação/Java/Atividade-Recursividade-Merge-Sort/Atividade1/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,12 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1730572459598</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="atividade 10">
+      <option name="closed" value="true" />
+      <created>1730922754490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730922754490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="atividade 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="atividade 10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -10,7 +10,7 @@ public class Main {
         int[] tam = { 1000, 10000, 100000, 1000000 };
         int rep = 10;
         for (int tamanho : tam) {
-            System.out.println("Tamanho do array: " + tamanho);
+            System.out.println("Array: " + tamanho);
             long tempoMergeSort = 0;
             long tempoBubbleSort = 0;
             long tempoSelectionSort = 0;
@@ -34,10 +34,10 @@ public class Main {
             }
 
 
-            System.out.println("Tempo médio Merge Sort: " + (tempoMergeSort / rep) + " ns");
-            System.out.println("Tempo médio Bubble Sort: " + (tempoBubbleSort / rep) + " ns");
-            System.out.println("Tempo médio Selection Sort: " + (tempoSelectionSort / rep) + " ns");
-            System.out.println("Tempo médio Insertion Sort: " + (tempoInsertionSort / rep) + " ns");
+            System.out.println("Bubble Sort: " + (tempoBubbleSort / rep) + " ns");
+            System.out.println("TSelection Sort: " + (tempoSelectionSort / rep) + " ns");
+            System.out.println("Insertion Sort: " + (tempoInsertionSort / rep) + " ns");
+            System.out.println("Merge Sort: " + (tempoMergeSort / rep) + " ns");
             System.out.println();
         }
     }
